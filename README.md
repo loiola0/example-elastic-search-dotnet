@@ -1,0 +1,1 @@
+# example-elastic-search-dotnet
